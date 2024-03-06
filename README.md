@@ -1,4 +1,3 @@
-    ```
 1. **Install Dependencies**
     Next, they need to install the necessary dependencies. This can be done using the `npm install` command:
     ```bash

@@ -3,12 +3,21 @@
     ```bash
     npm install
     ```
+    
 2. **Build the App**
     They can create a production build of the app using the `npm run build` command:
     ```bash
-    npm run build
+    npm run build    
     ```
-3. **Deploy the App**
+
+3. **Run locally**
+   Command to run this locally:    
+   ```
+   npx webpack serve  
+
+   ```
+
+4. **Deploy the App**
     Finally, they can deploy the app. There are many services they can use to deploy the app, such as Netlify, Vercel, or AWS Amplify. These services provide a simple way to deploy static websites, and they work well with React apps. They can connect these services to your GitHub repository and they will automatically deploy the app whenever you push changes to your repository.
 
     For example, to deploy the app with Netlify:
